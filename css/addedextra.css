@@ -9,3 +9,22 @@
   
   
   /* End of testing */
+
+  @media only screen and (max-width: 600px) {
+
+    /* moble size text */
+    .heading {
+        font-size: 1.4rem !important;
+       
+    }
+
+    .bg-dark1 {
+        width: 95%;
+    }
+
+    .f-arrow {
+        position: relative;
+        top: 7px;
+    }
+
+  }

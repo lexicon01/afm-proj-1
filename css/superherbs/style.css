@@ -1,0 +1,39 @@
+
+    /* needed testing some stuff */
+    .bg-dark1 {
+        background-color: rgba(0, 0, 0, 0.4);
+        width: 80%;
+        padding: 3rem;
+      }
+      
+      
+header.masthead {
+    position: relative;
+    background-color: #343a40;
+    background: url(../../img/spices.jpg) no-repeat center center !important;
+    background-size: cover;
+    padding-top: 8rem;
+    padding-bottom: 8rem
+}
+      
+      
+      /* End of testing */
+    
+      @media only screen and (max-width: 600px) {
+    
+        /* moble size text */
+        .heading {
+            font-size: 1.4rem !important;
+           
+        }
+    
+        .bg-dark1 {
+            width: 95%;
+        }
+    
+        .f-arrow {
+            position: relative;
+            top: 7px;
+        }
+    
+      }

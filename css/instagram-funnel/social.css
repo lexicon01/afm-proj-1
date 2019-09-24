@@ -65,7 +65,7 @@
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
     /* Styles */
-    ul li {
+    .fx-cls li {
         margin: 5px 5px;
     }
     .title {

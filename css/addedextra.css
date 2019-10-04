@@ -15,8 +15,11 @@
     /* moble size text */
    
     .heading {
-        font-size: 1.1rem;
+        font-size: 1rem;
        
+    }
+    header.masthead h1 {
+        font-size: 1.5rem;
     }
 
     .bg-dark1 {

@@ -5,7 +5,7 @@
     width: 80%;
     padding: 3rem;
   }
-  
+
   
   
   /* End of testing */
@@ -13,8 +13,9 @@
   @media only screen and (max-width: 600px) {
 
     /* moble size text */
+   
     .heading {
-        font-size: 1.4rem !important;
+        font-size: 1.1rem;
        
     }
 

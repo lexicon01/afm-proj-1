@@ -42,7 +42,9 @@ header.masthead h1 {
         padding-bottom: 12rem
     }
     header.masthead h1 {
-        font-size: 3rem
+        font-size: 2.5rem;
+        line-height: 2.5rem;
+        
     }
 }
 

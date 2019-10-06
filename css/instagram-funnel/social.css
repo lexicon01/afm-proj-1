@@ -74,6 +74,9 @@
     .sm-m {
         margin: 1rem 0;
     }
+    .fb-mid {
+        font-size: 1rem;
+    }
 }
 
 /* Desktops and laptops ----------- */
@@ -81,6 +84,6 @@
 @media only screen and (min-width: 1224px) {
     /* Styles */
     .sm-m {
-        margin: 2rem 0 0 1rem;
+        margin: 2rem 0 0 0rem;
     }
 }

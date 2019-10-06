@@ -56,5 +56,5 @@ body {
 
   /* font-size for discription paragraph */
   .fb-mid {
-    font-weight: 500;
+    font-weight: 500 !important;
   }
